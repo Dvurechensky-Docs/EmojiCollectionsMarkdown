@@ -1,4 +1,4 @@
-Люди
+<p align="center">✨Dvurechensky✨</p>
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -310,3 +310,4 @@
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
 
+<p align="center">✨Dvurechensky✨</p>
